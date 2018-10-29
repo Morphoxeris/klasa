@@ -3,7 +3,7 @@
 A schema works like a diagram or a blueprint, in SettingsGateway, the schema defines the keys present in the configuration for a specific gateway. This feature serves multiple purposes:
 
 1. Define what keys the {@link Gateway} manages and their properties.
-1. Define what type the keys must hold.
+1. Define what type the keys must hold. sfsdf
 1. Speed up performance when iterating over keys.
 
 ## Adding keys
